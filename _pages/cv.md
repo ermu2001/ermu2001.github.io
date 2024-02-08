@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 * B.S. in Computer Science, Nankai University, 2023
 * M.S. in Computer Science, New York University, 2025 (expected)
 
-Work experience
-======
+# Professional Experiences
 * Dec. 2022-Aug. 2023: Intern Research and Developer
   * Baidu Inc.
   * Duties included: 
@@ -28,8 +26,7 @@ Work experience
   * Duties included: Implement AI solution for product.
   * Supervisor: Liqian Ma
   
-Skills
-======
+# Skills
 * Python
   * pytorch
   * transformers
