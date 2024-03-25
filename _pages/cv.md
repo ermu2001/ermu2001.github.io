@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Checkout My CV in this file: http://ermu2001.github.io/files/Yilin_Zhao.pdf
+Checkout My CV in this file: [Yilin_Zhao](http://ermu2001.github.io/files/Yilin_Zhao.pdf)
 
 
 <!-- 
