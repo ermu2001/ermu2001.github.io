@@ -15,5 +15,5 @@ This is a interesting application integrating multiple foundation models to gene
 ## Erniebot
 Baidu's foundation conversation model. I contributed to this during a internship upon graduating from university. This basically leads me to everything I am currentyly working on and interested in. Just can't help loving it.
 
-## Thesis--Diffusion With Style
+## Bachelor Thesis--Diffusion With Style
 Starting everthing off. Simple diffusion method incorporated with style gram matrix. No reference yet, might be interested if this research could be carried on.

@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Checkout My CV in this file: http://ermu2001.github.io/files/Yilin_Zhao.pdf
+
+
+<!-- 
 # Education
 * B.S. in Computer Science, Nankai University, 2023
 * M.S. in Computer Science, New York University, 2025 (expected)
@@ -38,7 +42,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
